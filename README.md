@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khushal0944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushal0944" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/khushal-kumar-82b623291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/itsss_khushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsss_khushal" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@Khushal0944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khushal kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khushal0944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushal0944" height="30" width="40" /></a>
+<a href="https://twitter.com/khushal0944" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushal0944" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushal-kumar-82b623291" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/itsss_khushal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsss_khushal" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@Khushal0944" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khushal kumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khushal0944" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushal0944" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
