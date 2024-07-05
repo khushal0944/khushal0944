@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushal Kumar</h1>
 <h3 align="center">A passionate Front End Web Developer</h3>
 
-- 🔭 I’m currently working on **React JS Project**
+- 🔭 I’m currently working on **Next JS Project**
 
-- 🌱 I’m currently learning **Backend🧑‍💻**
+- 💬 Ask me about **NextJS, ReactJS, Typescript, Tailwind CSS, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushal0944](https://github.com/khushal0944)
-
-- 💬 Ask me about **React, JS, Tailwind CSS**
 
 - 📫 How to reach me **khushalsuthar0944@gmail.com**
 
